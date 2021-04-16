@@ -62,10 +62,10 @@ public class MainActivity extends AppCompatActivity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
-        // This comment suppresses the Android Studio warning about simplifying
+        // This comment suppresses the Andrgit oid Studio warning about simplifying
         // the return statements.
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
+        if (id == R.id.action_order) {
             return true;
         }
 
